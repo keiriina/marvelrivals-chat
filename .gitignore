@@ -1,0 +1,23 @@
+# Ignore the virtual environment
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# VS Code and PyCharm settings (optional)
+.vscode/
+.idea/
+
+# Environment variable files (optional, if you're using them)
+.env
+*.env
+
+# macOS system files (optional)
+.DS_Store
